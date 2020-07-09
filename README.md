@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **march213/march213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt exploring](https://gph.is/g/aQWrqAO)
+![exploring](https://media.giphy.com/media/eIrpL63BEIhWc9jFwR/giphy.gif)
