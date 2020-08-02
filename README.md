@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 </p>
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=march213&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=march213&hide=css,html,elm)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=march213&show_icons=true)
