@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" alt="developer">
 </div>
-
-### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=march213&hide=html,elm&count_private=true)
-
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=march213&show_icons=true&count_private=true)
