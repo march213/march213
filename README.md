@@ -1,5 +1,3 @@
-> making stuff
-
 <!--
 **march213/march213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Ztb45EYezY9x9gQ/giphy.gif" alt="Creative">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" alt="developer">
+</div>
 
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=march213&hide=html,elm&count_private=true)
