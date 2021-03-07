@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://spotify-playing-now-readme.vercel.app/api/now-playing" width="540" height="48">
+  <img src="https://spotify-playing-now-readme-march213.vercel.app/api/now-playing" width="540" height="48">
 </div>
