@@ -1,11 +1,6 @@
 <!--
 **march213/march213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div>
-  <img src="https://spotify-playing-now-readme-five.vercel.app/api/now-playing" width="540" height="48">
-</div>
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img src="https://spotify-playing-now-readme-five.vercel.app/api/now-playing" width="540" height="48">
+</div>
+
+<hr />
 
 <div align="center">
   <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" alt="developer">
