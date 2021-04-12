@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I work at <a href="https://bunch.live/" target="_blank" rel="noopener noreferrer">Bunch</a>
+- 🌱 I’m currently learning kotlin, swift, threejs, shaders
+
+
 <div>
   <img src="https://spotify-playing-now-readme-five.vercel.app/api/now-playing" width="540" height="48">
 </div>
