@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 <div>
   <img src="https://spotify-playing-now-readme-five.vercel.app/api/now-playing" width="540" height="48">
 </div>
-
-<hr />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" alt="developer">
-</div>
