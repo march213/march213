@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I work at <a href="https://bunch.live/" target="_blank" rel="noopener noreferrer">Bunch</a>
+- 🔭 I work at <a href="https://lazertechnologies.com/" target="_blank" rel="noopener noreferrer">Lazer Technologies</a>
 - 🌱 I’m currently learning blockchain, threejs, shaders
 
 
