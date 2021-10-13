@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I work at <a href="https://bunch.live/" target="_blank" rel="noopener noreferrer">Bunch</a>
-- 🌱 I’m currently learning kotlin, swift, threejs, shaders
+- 🌱 I’m currently learning blockchain, threejs, shaders
 
 
 <div>
