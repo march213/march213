@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 - 🔭 I work at <a href="https://lazertechnologies.com/" target="_blank" rel="noopener noreferrer">Lazer Technologies</a>
 - 🌱 I’m currently learning blockchain, threejs, shaders
+- 💬 Ask me about next.js, react/react-native, css, typescript
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: a 🐶 person but a 🐱 owner
 
 
 <div>
