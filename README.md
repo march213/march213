@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I work at <a href="https://www.dapperlabs.com/" target="_blank" rel="noopener noreferrer">Dapper Labs</a>
-- 🌱 I’m currently learning blockchain, threejs, shaders
+- 🌱 I’m currently learning rust, blockchain, threejs, shaders
 - 💬 Ask me about next.js, react/react-native, css, typescript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: a 🐶 person but a 🐱 owner
