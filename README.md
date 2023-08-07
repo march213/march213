@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about next.js, react/react-native, css, typescript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: a 🐶 person but a 🐱 owner
-
-
-<div>
-  <img src="https://spotify-playing-now-readme-five.vercel.app/api/now-playing" width="540" height="48">
-</div>
